@@ -1,3 +1,3 @@
 # Model-Pinecone-Projects
 
-Implementation of chains using LangChain and Pinecone..
+Implementation of LLM chains using LangChain and Pinecone..
